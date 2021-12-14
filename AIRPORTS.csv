@@ -1,0 +1,24 @@
+airport_id,airport_name,altitude,city,country,latitude,longitude
+0,no hop,100000,A,India,0,0
+1,delhi airport,100050,B,India,0,0
+2,mumbai airport,100100,C,India,0,0
+3,bangalore airport,100150,D,India,0,0
+4,kolkata airport,100200,E,India,0,0
+5,ranchi airport,100250,F,India,0,0
+6,chennai airport,100300,G,India,0,0
+7,patna airport,100350,H,India,0,0
+8,bhopal airport,100400,I,India,0,0
+9,chandigarh airport,100450,J,India,0,0
+10,jaipur airport,100500,K,India,0,0
+11,hyderabad airport,100550,L,India,0,0
+12,vizag airport,100600,M,India,0,0
+13,goa airport,100650,N,India,0,0
+14,pune airport,100700,O,India,0,0
+15,shimla airport,100750,P,India,0,0
+16,bhubhaneshwar airport,100800,Q,India,0,0
+17,ahmedabad airport,100850,R,India,0,0
+18,raipur airport,100900,S,India,0,0
+19,lucknow airport,100950,T,India,0,0
+20,guwahati airport,101000,U,India,0,0
+21,indore airport,101050,V,India,0,0
+22,jabalpur airport,101100,W,India,0,0
